@@ -9,6 +9,27 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+@font-face {
+font-family: 'Nanum Barun Gothic';
+font-style: normal;
+font-weight: 400;
+src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
+src: url(./asset/fonts/NanumBarunGothic.eot);
+src: url(./asset/fonts/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+url(./asset/fonts/NanumBarunGothic.woff) format('woff'),
+url(./asset/fonts/NanumBarunGothic.ttf) format('truetype');
+}
+@font-face {
+font-family: 'Nanum Barun Gothic';
+font-style: normal;
+font-weight: 700;
+src: local('Nanum Barun Gothic Bold'), local('Nanum Barun Gothic-Bold'), local('NanumBarunGothic Bold');
+src: url(./asset/fonts/NanumBarunGothicBold.eot);
+src: url(./asset/fonts/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+url(./asset/fonts/NanumBarunGothicBold.woff) format('woff'),
+url(./asset/fonts/NanumBarunGothicBold.ttf) format('truetype');
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -21,12 +42,13 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  font-family: 'Apple SD Gothic Neo','Nanum Barun Gothic',sans-serif !important;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 1104px;
+  padding: 0 12px;
   width: 100%;
 }
 
@@ -38,6 +60,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
+
+  font-family: 'Apple SD Gothic Neo','Nanum Barun Gothic',sans-serif !important;  
 
   @include mobile {
     line-height: 1.4;
