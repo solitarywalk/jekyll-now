@@ -40,9 +40,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $nanum;
   color: $darkGray;
-  font-family: 'Apple SD Gothic Neo','Nanum Barun Gothic',sans-serif !important;
 }
 
 .container {
@@ -53,7 +52,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $nanum;
   color: $darkerGray;
   font-weight: bold;
 
