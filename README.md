@@ -16,18 +16,10 @@
 
 ## 사진은
 
-현재 (2017년3월) 사용중인 카메라는 'iphone SE'입니다. 이 블로그에 쓰여진 거의 모든 사진은 이 기기를 통해 촬영되었습니다.
+현재 (2017년3월) 사용중인 카메라는 'iphone SE'입니다. 이 블로그에 쓰여진 거의 모든 사진은 이 기기를 통해 촬영되었습니다. 사진을 사용하시고자 하시는 분은 페이스북을 통해 알려주시기 바랍니다.
 
 ## 길이외에
 
 단순히 걷기 뿐만 아니라 걷기와 관련된 다른 주제도 가끔씩 올릴 예정입니다.
 
 아울러 이 블로그의 베이스가 되어준 [barryclark](https://github.com/barryclark/jekyll-now)님께 감사를 드립니다.
-
-## Contributing
-
-Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
-
-You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
-
-I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
