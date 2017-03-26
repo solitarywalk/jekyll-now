@@ -39,7 +39,7 @@ html {
 }
 
 body {
-	background: #eee; /*$white;*/
+	background: $white;
   font: 18px/1.4 $nanum;
   color: $darkGray;
 }
@@ -49,7 +49,6 @@ body {
   max-width: 1104px;
   padding: 0 12px;
   width: 100%;
-  background: $white;
 }
 
 h1, h2, h3, h4, h5, h6 {
