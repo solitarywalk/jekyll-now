@@ -10,7 +10,7 @@
 
 이 블로그를 시작하기 전에 완료한 길들 중 중요한 내용을 간략히 적습니다. 크게는 경기도내 시,군을 포함하며, 서울과 인천은 제외되었습니다. 자세한 길은 차후에 다시 블로깅 할 시간이 있을 겁니다. 사진의 직선은 실제 걸은 경로가 아니며, 이어 걸은 두 시,군을 연결한 선입니다.
 
-![경기도](https://github.com/solitarywalk/solitarywalk.github.io/images/kyunggido.jpg)
+![경기도](https://github.com/solitarywalk/solitarywalk.github.io/blob/master/images/kyunggido.jpg?raw=true)
 
 검은 점은 각 시, 군을 의미합니다. 연결선은 하루나 이틀정도를 의미합니다. (3일이상 걸리는 길은 없었습니다.)
 
