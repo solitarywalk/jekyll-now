@@ -6,7 +6,7 @@ permalink: /about/
 
 걷는 걸 조금 좋아하는 사람.
 
-### More Information
+### More Information <i class="fa fa-info-circle" aria-hidden="true"></i>
 
 C, Pro-C, PowerScript(PowerBuilder) 등 다수의 Language를 사용한 코딩을 직업으로 했었음.
 
@@ -17,6 +17,6 @@ C, Pro-C, PowerScript(PowerBuilder) 등 다수의 Language를 사용한 코딩�
 
 결론적으로, IT언저리에서 그냥저냥 사는 사람임.
 
-### Contact me
+### Contact me <i class="fa fa-envelope-o" aria-hidden="true"></i> 
 
 [bilcuee@gmail.com](mailto:bilcuee@gmail.com)
