@@ -14,8 +14,12 @@ $(document).ready(function(){
     var sticky = $('.wrapper-masthead'),
         scroll = $(window).scrollTop();
 
-    if (scroll >= stickyOffset) sticky.addClass('fixed');
-    else sticky.removeClass('fixed');
+    if (scroll >= stickyOffset) {
+      sticky.addClass('fixed');
+    }
+    else {
+      sticky.removeClass('fixed');
+    }
 
   });
 
