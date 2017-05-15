@@ -192,6 +192,17 @@ img {
   background-color: #eee;
 }
 
+.sticky-masthead {
+  background-color: #eee;
+  display:none;
+}
+
+.sticky-masthead .masthead { padding: 10px 0;}
+
+.sticky-masthead h1.site-name { font-size: 18px;}
+
+.sticky-masthead nav {margin-top: 5px; font-size: 15px;}
+
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;

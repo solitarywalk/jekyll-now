@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  var stickyOffset = $('.wrapper-masthead').offset().top + $('.wrapper-masthead').height() - 50 ;
+  var stickyOffset = $('.sticky-masthead').offset().top + $('.sticky-masthead').height() + 100;
   
   //Check to see if the window is top if not then display button
   $(window).scroll(function(){
@@ -11,13 +11,15 @@ $(document).ready(function(){
       $('.scrollToTop').fadeOut();
     }
 
-    var sticky = $('.wrapper-masthead'),
+    var sticky = $('.sticky-masthead'),
         scroll = $(window).scrollTop();
 
     if (scroll >= stickyOffset) {
+      sticky.show();
       sticky.addClass('fixed');
     }
     else {
+      sticky.hide();
       sticky.removeClass('fixed');
     }
 
