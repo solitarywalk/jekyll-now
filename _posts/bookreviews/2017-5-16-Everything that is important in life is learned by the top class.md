@@ -13,7 +13,7 @@ ISBN 978-89-97484-72-0
 -한국판 서문중
 
 >성공의 비결을 물었을때도 그는 '사람이죠.'라고 대답했습니다.
--와인편, 데이븓 피어슨
+-와인편, 데이븐 피어슨
 
 ## Simple Review <i class="fa fa-comment" aria-hidden="true"></i>
 
