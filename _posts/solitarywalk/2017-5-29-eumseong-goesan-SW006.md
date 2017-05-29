@@ -21,8 +21,8 @@ title: 음성군-괴산군 [SW006]
 같은 밭을 다른 각도에서 찍었다. 가로로 옆으로 늘어선 검은 줄무늬는 90도를 꺽어 다시 보니 위아래로 길게 늘어서있다. 강한 햇살도 누그러져 열기가 식어갔다. 약간만 돌아가면 다른 모습을 보여주는 세상인데 너무 뚫어지게 한곳만 본게 아닌가한다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw006/SW006_3.JPG">
-	<img src="{{ site.baseurl }}/images/sw006/SW006_4.JPG">
+	<img src="{{ site.baseurl }}/images/sw006/SW005_3.JPG">
+	<img src="{{ site.baseurl }}/images/sw006/SW005_4.JPG">
 </div>
 
 ## 듬성듬성이 <i class="fa fa-anchor" aria-hidden="true"></i>
@@ -30,8 +30,8 @@ title: 음성군-괴산군 [SW006]
 줄무늬가 도로위에 나타났다. 하늘은 구름이 무더기로 떠있다. 곧게 걷고자 하지만 자꾸만 흐느적 거리게 된다. 힘이 다되서일까, 그림자의 보이지 않는 손길이 나를 붙잡는 걸일까. 내가 발로 굴리는 지구는 좌우로 흔들린다. 발을 멈추니 대지도 같이 멈춘다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw006/SW006_5.JPG">
-	<img src="{{ site.baseurl }}/images/sw006/SW006_6.JPG">
+	<img src="{{ site.baseurl }}/images/sw006/SW005_5.JPG">
+	<img src="{{ site.baseurl }}/images/sw006/SW005_6.JPG">
 </div>
 
 ## 정리 <i class="fa fa-bar-chart" aria-hidden="true"></i>
