@@ -10,8 +10,8 @@ title: 음성군-괴산군 [SW006]
 가끔은 마음에 쏙 드는 장소를 만난다. 진한 그림자 아래서 김밥을 먹고 있을 때, 휘익하고 바람이 불어와 주면 시원함에 부르르떤다. 작은 실개천 넘어로 음식점이 있었는데, 그곳에서 무엇을 자르는지 모르겠지만 연신 그라인더 소리가 들려서 완벽함에서 두세치 정도 멀었다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw006/sw006_2.JPG">
-	<img src="{{ site.baseurl }}/images/sw006/SW006_1.JPG">
+	<img src="{{ site.baseurl }}/images/sw005/SW005_2.JPG">
+	<img src="{{ site.baseurl }}/images/sw005/SW005_1.JPG">
 </div>
 
 이런 풍경이 국내에도 있다는게 의심스럽다. 볼리비아 산아래 바라보던 느낌이 고스란히 다가왔다. 
