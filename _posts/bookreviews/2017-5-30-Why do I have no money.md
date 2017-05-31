@@ -25,4 +25,4 @@ ISBN 979-11-95711-7-2
 <i class="fa fa-star-o" aria-hidden="true"></i>
 <i class="fa fa-star-o" aria-hidden="true"></i>
 
-가장 단순하게 가장 어렵다.
+가장 단순한게 가장 어렵다.
