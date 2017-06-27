@@ -10,8 +10,8 @@ title: 진천군-증평군 [SW008]
 몇주째 제대로 된 비가 내리지 않았다. 저수지에 물은 한눈에도 모자라 보인다. 그래도 도로에 불법주차를 버젓이 하고, 낚시대를 드리운 많은 사람들을 볼 수 있었다. 도로 곳곳엔 버려진 술병과 쓰레기가 보인다. 가뭄의 고통따위는 상관하지 않는 그들의 맨탈에 경의를 보내며...
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw008/SW008_1.JPG">
-	<img src="{{ site.baseurl }}/images/sw008/SW008_2.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw008/SW008_1.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw008/SW008_2.JPG">
 </div>
 
 ## 진천 농다리 <i class="fa fa-gamepad" aria-hidden="true"></i>
@@ -19,7 +19,7 @@ title: 진천군-증평군 [SW008]
 갑자기 커다란 주차장이 나와서 잠깐 놀랐다. 커다란 간판엔 '진천농다리'라고 적혀있다. 몇대의 관광차에서 수십명의 사람들이 쏟아져 내리는 모습을 본다. 사람들이 내려가는 왼쪽을 바라보며, 본격적으로 오르막이 시작되는 오른쪽으로 길을 택한다. 햇살은 구름에 가려 흐릿하다. 습습함이 함께 묻어나는 공기를 따라 오른다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw008/SW008_3.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw008/SW008_3.JPG">
 </div>
 
 ## 비가 올땐 따뜻한 국물이지 <i class="fa fa-cutlery" aria-hidden="true"></i>
@@ -27,8 +27,8 @@ title: 진천군-증평군 [SW008]
 증평으로 들어서는 길목에서부터 비가 내리기 시작한다. 한 10분정도는 이따금씩 툭툭 치는 수준이였지만, 어느새 후두둑 소리를 제법 내며 길을 온통 적시기 시작했다. 엄청나게 쏟아지는 비는 아니어서 배낭의 방수커버만 씌우고 증평역에 도착했다. 
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw008/SW008_4.JPG">
-	<img src="{{ site.baseurl }}/images/sw008/SW008_5.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw008/SW008_4.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw008/SW008_5.JPG">
 </div>
 
 다행이 집까지 돌아오는 버스가 있었지만, 한시간반이나 기다려야 했다. 일단 쓰레기를 버리고, 스마트폰을 열어 증평맛집을 검색해 본다. 한 블럭정도 거리에 '소머리국밥'을 파는 곳이 있어, 다시 빗속으로 나섰다. 역시 따뜻한 국물이 속을 채우자 온몸이 따스해진다.

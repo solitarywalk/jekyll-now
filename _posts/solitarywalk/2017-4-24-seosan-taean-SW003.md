@@ -10,8 +10,8 @@ title: 서산시-태안군 [SW003]
 많은 부분에서 우연이다. 이러면 어떨가 하는 사진이 가끔은 마음에 쏙 들어오기도 한다. 그래서 걷다가 가끔식 뒤돌아 본다. 반대쪽에 바라보는 풍격은 걸어오면서 본 풍경과는 아주 다르게 보이기도 하기에. 해가 뜨거운줄은 알았지만 이정도로 따가울줄은 정말 몰랐다. 태양에게 경배를...그 뜨거운 정열을...
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw003/SW003_1.JPG">
-	<img src="{{ site.baseurl }}/images/sw003/SW003_2.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw003/SW003_1.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw003/SW003_2.JPG">
 </div>
 
 한국의 길을 걸으면서 전혀 한국적이지 않은 것을 볼때마다 신선하다. 물론 가끔 너무 기괴해서 외면하기도 하지만 주변과 조화를 일루는 이질감은 그 자체로 설레임이다. 더 머물면서 바라보기엔 가야할 길이 너무 멀다.
@@ -21,7 +21,7 @@ title: 서산시-태안군 [SW003]
 요즘은 GPS를 이용해서 스파트폰으로 길을 찾기 때문에 예전처럼 길을 헤메일 일은 거의 없다. 5개의 길이 만나는 이 시골길은 단순히 서로의 길을 가로지르는 선이 아니라 만나고 헤어지는 인연의 짦은 순간임이 틀림없으리라. 그 엇갈림 속에서 속절없이 지나친 길을 후회하거나 가야할길에 두려워함도 또한 인연일지니...
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw003/SW003_3.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw003/SW003_3.JPG">
 </div>
 
 ## 반으로 갈라서 <i class="fa fa-battery-half" aria-hidden="true"></i>
@@ -29,8 +29,8 @@ title: 서산시-태안군 [SW003]
 저수지엔 강태공들이 내리쬐는 강한 햇살에 맞서 낚시대를 드리운다. 물과 뭍사이에서 줄달이기를 하는건지도 모르겠다. 길게 뻗은 뚝방길은 제초된 식물들의 잔해로 가득했다. 마치 낙엽같이 푹신하게 걸음을 받여준다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw003/SW003_4.JPG">
-	<img src="{{ site.baseurl }}/images/sw003/SW003_5.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw003/SW003_4.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw003/SW003_5.JPG">
 </div>
 
 그 뚝방에서 내려와 바라본 왼쪽편은 땅반 하늘반이다. 도시에서처럼 어디를 보나 시선에 걸리는 건물이나 자동차가 없다. 그냥 반이 하늘이다. 그 아래 무엇이던 그 색깔처럼 파랗게 되었으면 좋겠다.

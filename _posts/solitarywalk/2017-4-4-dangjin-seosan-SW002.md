@@ -10,8 +10,8 @@ title: 당진시-서산시 [SW002]
 서쪽으로 가는데 서풍이 분다. 정확히는 북서풍이다. 어제 비가 오더니 그 여파가 아직 남아있었다. 모자가 바람에 날려 자꾸 돌아서게 한다. 구름 때문인지 하늘이 낮게 보인다. 구름 그림자 사이에 햇살이 지나간다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw002/SW002_1.JPG">
-	<img src="{{ site.baseurl }}/images/sw002/SW002_2.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw002/SW002_1.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw002/SW002_2.JPG">
 </div>
 
 예전에 외할머님과 같이 걷었던 여름날의 시골길이 생각났다. 그땐 지금보다 더웠으니 아마 5월은 되었던듯 하다. 당시 시골엔 버스간격이 꽤 길었는데, 외할머니댁으로 가는 버스를 놓쳐서 손자인 나와 할머님이 버스길을 따라 걸었다. 구름이 듬성듬성 떠있었는데 그때도 구름 그림자가 우리 둘을 스쳐지나갔다. 마치 시간처럼 잡을 수 없는 그림자와 햇살을 번갈아 지나면서, 새삼 시간의 오묘함을 느꼈다.
@@ -21,7 +21,7 @@ title: 당진시-서산시 [SW002]
 파란하늘이 더 진하게 보이지만, 사실 너무 눈부시게 밝아서 사진은 오히려 어둡게 나왔다. 썬그라스를 착용하기 때문에 사실 어느정도 밝기인지를 실감하지 못한다. 그런상태에서 사진을 찍고 나중에 보면 너무 밝아서 놀라기도 한다. 그런 면에서 이 사진은 내가 본 느낌과 비슷하다고 하겠다. 짙은 파랑안에 흐르는 흰 구름이 나의 발길처럼 흐른다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw002/SW002_3.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw002/SW002_3.JPG">
 </div>
 
 ## 개다리 <i class="fa fa-cube" aria-hidden="true"></i>
@@ -29,8 +29,8 @@ title: 당진시-서산시 [SW002]
 한 낮에 건넌 다리다. 두세마리의 개가 떡하니 엎드려 있었다. 바로 옆에 큰 다리가 역할을 뺏어가 한적해진 낡은 다리였다. 한 5미터까지 다가가도 꿈쩍하지 않더니 어느정도 다가가니 흘끗 나를 보고는 일어섰다. 3미터 정도 접근하니 살짝 옆으로 비켜선다. 내가 지나갈때 까지 슬슬 우회하고는, 멀어지자 다시 엎드린다. 괜한 낮잠을 방해한게 아닌가 미안해진다. 
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw002/SW002_4.JPG">
-	<img src="{{ site.baseurl }}/images/sw002/SW002_5.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw002/SW002_4.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw002/SW002_5.JPG">
 </div>
 
 ## 정리 <i class="fa fa-bar-chart" aria-hidden="true"></i>

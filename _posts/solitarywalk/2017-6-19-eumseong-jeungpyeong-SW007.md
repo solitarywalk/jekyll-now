@@ -10,8 +10,8 @@ title: 음성군-증평군 [SW007]
 길 저멀리에서부터 보이는 표지판이 있었다. 파란 바탕위에 흰 좌회전 표시. 가까이서 보니 그 크기가 나의 1.5배는 되어 보였다. 거의 90도로 꺽이는 길이라서 이 정도는 되야 하나보다. 반면 조그만 삼각형의 죄회전표시가 있다. 방금전에 보고 온 엄청난 크기를 봐서일까 귀여워보인다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw007/SW007_1.JPG">
-	<img src="{{ site.baseurl }}/images/sw007/SW007_2.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw007/SW007_1.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw007/SW007_2.JPG">
 </div>
 
 ## 내리막..내리막... <i class="fa fa-hand-o-down" aria-hidden="true"></i>
@@ -19,7 +19,7 @@ title: 음성군-증평군 [SW007]
 백마산의 백마령을 넘었다. 오르막은 금방 끝이 난데 비해 내리막은 꽤 오래 내려갔다. 직선으로 올라온 길은 정상을 넘어 구비구비 휜길이 되었다. 어쩐지 너털대는 발걸음이 자연스럽게 리듬을 탄다. 왼쪽으로 오른쪽으로 풍경이 계속 바뀐다. 그림자속으로 들어선듯하다가 갑자기 햇살이 모자위로 떨어진다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw007/SW007_3.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw007/SW007_3.JPG">
 </div>
 
 ## 정리 <i class="fa fa-bar-chart" aria-hidden="true"></i>

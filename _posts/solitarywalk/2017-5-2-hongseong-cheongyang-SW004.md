@@ -10,8 +10,8 @@ title: 홍성군-청양군 [SW004]
 왜 그런지 자꾸 눈길이 간다. 굽은 길을 돌아 나와서 반대편으로 바라보는 산마루의 형체처럼 늘어선 나무가 말이다. 어찌 저렇게 곧게 자랐을까? 바람이 없는것도 아니고 말이다. 설마 내가 보지 못하는 높은 곳에 멋진 풍경이라도 있는 걸까?
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw004/SW004_1.JPG">
-	<img src="{{ site.baseurl }}/images/sw004/SW004_2.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw004/SW004_1.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw004/SW004_2.JPG">
 </div>
 
 저수지에 길게 올라온 육지위에도 나무가 나란하다. 섬위에 갇힌 나무들이 왠지 애처롭다. 왼쪽아래 작은 선착장이 있었는데 아마도 작은 보트를 접안시키는 용도같다. 폴짝 뛰면 닿을듯한 거리에 솟은 섬에 불현듯 뛰어올르고 싶었다.
@@ -21,8 +21,8 @@ title: 홍성군-청양군 [SW004]
 자동차마저도 거의 없는 도로옆에 가끔씩 이름모를 건물들이 서있다. 주변엔 풀들이 가득하고, 저 멀리에 이 건물의 내용을 알려주는 알림판이 있다. 애써 읽으려 하진 않는다. 읽어도 좀 있으면 잊을것이니까.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw004/SW004_3.JPG">
-	<img src="{{ site.baseurl }}/images/sw004/SW004_4.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw004/SW004_3.JPG">
+	<img src="{{ site.baseurl }}/images/sw/sw004/SW004_4.JPG">
 </div>
 
 마을에 하나씩 정자들이 있다. 길가에 위치한 이 정자도 나에겐 잠시의 휴식을 주었지만, 의자엔 가득이 먼지가 쌓여 있었다. 비어있으니 비어있다고 보여질뿐이다. 나도 빈 공간에 잠시 머물고 사라지듯이.

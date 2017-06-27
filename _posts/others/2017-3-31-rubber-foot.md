@@ -12,7 +12,7 @@ title: 고무발 Rubber Foot
 구매를 살짝 고민했다. 일단 크기를 알수 없으니 기존에 가지고 있던 스틱과 잘 맞을지 걱정이였다. 하지만, 만원(배송비포함)도 안되는 비용인데 일단 안맞더라도 사보자, 안되면 나중에 스틱사면 되지, 라는 생각에 구매결정버튼을 누렀다.
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/rubberfoot/IMG_0993.JPG" alt="RubberFoot" />
+	<img src="{{ site.baseurl }}/images/others/rubberfoot/IMG_0993.JPG" alt="RubberFoot" />
 </div>
 
 요로케 생긴 물품이 작은 상자에 담겨왔다. 사실 몇일전에 도착했지만, 번번히 잊고 있다가 어제야 스틱에 신겨(?)보았다.
@@ -22,7 +22,7 @@ title: 고무발 Rubber Foot
 왜 고민했을까 하는 생각이 들정도 기존 스틱과 딱 맞았다. 스틱판매 페이지의 사진처럼. 물론 끼우거나 뺄때 조금 뻑뻑하지만, 그정도는 되야 쉽게 빠지지 않을 것 같다. 어째꺼나 대만족중이다. 
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/rubberfoot/IMG_1011.JPG" alt="RubberFoot in stick" />
+	<img src="{{ site.baseurl }}/images/others/rubberfoot/IMG_1011.JPG" alt="RubberFoot in stick" />
 </div>
 
 자~ 또 신나게 걷는거다. 남들이 어떻게 보던 먼상관이리..좀 이상하게 보긴 하겠지..흠...
