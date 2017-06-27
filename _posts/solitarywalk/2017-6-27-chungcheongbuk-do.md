@@ -12,7 +12,7 @@ title: 충청북도 [SW009]
 ## 이어진 길 <i class="fa fa-link" aria-hidden="true"></i>
 
 <div class="images">
-	<img src="{{ site.baseurl }}/images/sw/sw009/SW009.PNG">
+	<img src="/images/sw/sw009/SW009.PNG">
 </div>
 
 + (천안)-청주-보은-옥천-영동-(김천)
