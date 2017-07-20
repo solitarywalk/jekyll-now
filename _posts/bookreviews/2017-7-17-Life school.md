@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 인생학교 [BR023]
+title: 인생학교 [BR024]
 ---
 
 인생학교

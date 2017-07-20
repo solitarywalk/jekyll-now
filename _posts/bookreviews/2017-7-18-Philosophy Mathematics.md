@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 철학수학 [BR024]
+title: 철학수학 [BR025]
 ---
 
 철학수학

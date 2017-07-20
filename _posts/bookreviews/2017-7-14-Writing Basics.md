@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 글쓰기 기본기 [BR022]
+title: 글쓰기 기본기 [BR023]
 ---
 
 글쓰기 기본기
