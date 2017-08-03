@@ -27,7 +27,7 @@ ISBN 979-11-955415-5-3
 <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
 <!-- <i class="fa fa-star-o" aria-hidden="true"></i> -->
 <!-- <i class="fa fa-star-half-o" aria-hidden="true"></i> -->
-<i class="fa fa-star-o" aria-hidden="true"></i>
+<!-- <i class="fa fa-star-o" aria-hidden="true"></i> -->
 <i class="fa fa-star-o" aria-hidden="true"></i>
 <i class="fa fa-star-o" aria-hidden="true"></i>
 

@@ -23,7 +23,7 @@ ISBN 978-89-92534-03-1
 
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
-<i class="fa fa-star" aria-hidden="true"></i>
+<!-- <i class="fa fa-star" aria-hidden="true"></i> -->
 <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
 <!-- <i class="fa fa-star-o" aria-hidden="true"></i> -->
 <!-- <i class="fa fa-star-half-o" aria-hidden="true"></i> -->
